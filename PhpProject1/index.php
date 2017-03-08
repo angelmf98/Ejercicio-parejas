@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "hola que ase";
+        echo "Copyright 2017";
         ?>
     </body>
 </html>
